@@ -2,7 +2,7 @@
 
 I graduated from the University of California Davis in 2018 with a degree in Wildlife Conservation Biology. I spent the past four years working, living, and studying in three states and two countries as a forester, restoration biological scientist, educator, and bird surveyor. After learning Python and R to automate processes and improve data analysis, I decided to pivot my career towards software development. I wrapped up a batch at the [Recurse Center](https://www.recurse.com/) in early 2022. 
 
-I am particularly interested in leveraging technology to aid in environmental and energy conservation, financial accessability, and generally making the world a better place for all.
+I am particularly interested in leveraging technology to aid in environmental and energy conservation, improve financial accessability, and generally making the world a better place for all.
 
 - 🌱 Currently learning: [The Odin Project](https://www.theodinproject.com/)
 - 🔨 Currently working on: 
