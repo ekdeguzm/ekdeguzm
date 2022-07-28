@@ -13,6 +13,11 @@ I am particularly interested in leveraging technology to aid in environmental an
 <h2>Languages & Tools</h2>
 <div>
  <img src="https://raw.githubusercontent.com/ekdeguzm/ekdeguzm/main/icons/html5-original.svg" alt="html5" width=50 height=50>
+ <img src="https://raw.githubusercontent.com/ekdeguzm/ekdeguzm/main/icons/css3-original.svg" alt="css3" width=50 height=50>
+ <img src="https://raw.githubusercontent.com/ekdeguzm/ekdeguzm/main/icons/javascript-original.svg" alt="javascript" width=50 height=50>
+ <img src="https://raw.githubusercontent.com/ekdeguzm/ekdeguzm/main/icons/python-original.svg" alt="python" width=50 height=50>
+ <img src="https://raw.githubusercontent.com/ekdeguzm/ekdeguzm/main/icons/git-original.svg" alt="git" width=50 height=50>
+ <img src="https://raw.githubusercontent.com/ekdeguzm/ekdeguzm/main/icons/github-original.svg" alt="github" width=50 height=50>
  </div>
 
 ### Current Working On:
