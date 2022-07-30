@@ -23,5 +23,4 @@ I am especially interested in leveraging technology to support environmental and
 ### Current Working On:
 
 ### Personal Trivia:
-- Currently preparing for a 6 month trip to Taiwan to learn Mandarin in Taipei (2022-2023)
-
+- Currently preparing for a 6 month trip to Taiwan to learn Mandarin.
