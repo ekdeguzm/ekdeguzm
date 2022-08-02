@@ -10,7 +10,7 @@ I am especially interested in leveraging technology to support environmental and
 
 
 
-<h2>Languages & Tools</h2>
+## Languages & Tools
 <div>
  <img src="https://raw.githubusercontent.com/ekdeguzm/ekdeguzm/main/icons/html5-original.svg" alt="html5" width=50 height=50>
  <img src="https://raw.githubusercontent.com/ekdeguzm/ekdeguzm/main/icons/css3-original.svg" alt="css3" width=50 height=50>
