@@ -26,3 +26,16 @@ I am especially interested in leveraging technology to support environmental and
 - Currently preparing for a 6 month trip to Taiwan to learn Mandarin.
 
 You can reach me at em.deguzm@gmail.com. 
+
+
+<!-- 🌱 I’m currently learning: 
+- Flask ([Flask Web Development](https://www.oreilly.com/library/view/flask-web-development/9781491991725/))
+- SQLAlchemy
+- Alembic
+- Systems Design Fundamentals ([Algo Expert](https://www.algoexpert.io/systems/fundamentals))
+- Database designs ([DDIA](https://dataintensive.net/))
+
+📚 I plan on learning:
+- Python Best Practices: Reading through [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/) and [Serious Python](https://nostarch.com/seriouspython)
+- Computer Science using [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- Coursera Class: [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking) -->
