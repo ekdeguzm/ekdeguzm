@@ -24,3 +24,5 @@ I am especially interested in leveraging technology to support environmental and
 
 ### Personal Trivia:
 - Currently preparing for a 6 month trip to Taiwan to learn Mandarin.
+
+You can reach me at em.deguzm@gmail.com. 
