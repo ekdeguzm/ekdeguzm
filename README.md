@@ -1,6 +1,6 @@
 ## Hi there, I'm Kawayan 👋
 
-I graduated from the University of California, Davis in 2018 with a degree in Wildlife Conservation Biology. I spent the past few years working, living, and studying in three states and three countries as a forester, restoration biological scientist, science educator, and fisheries researcher. After learning Python and R to automate processes and improve data analysis, I decided to pivot my career towards software development. I wrapped up a batch at the [Recurse Center](https://www.recurse.com/) in early 2022. 
+I graduated from the University of California, Davis in 2018 with a degree in Wildlife Conservation Biology. I spent the past few years working, living, and studying in three states and three countries as a forester, restoration biological scientist, science educator, and fisheries researcher. After learning Python and R to automate processes and improve data analysis, I decided to pivot my career towards software development. I wrapped up a batch at the [Recurse Center](https://www.recurse.com/) in 2022. 
 
 I am especially interested in leveraging technology to support environmental and energy conservation, improving financial accessability, and generally making the world a better place for all.
 
