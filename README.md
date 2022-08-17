@@ -7,7 +7,7 @@ I am especially interested in leveraging technology to support environmental and
 - 🌱 Currently learning: [The Odin Project](https://www.theodinproject.com/)
 - 🔨 Currently working on: 
 - 💻 Let's talk about: 
-- 📚 I plan on learning:
+- 📚 I plan on learning: 
 
 
 
@@ -24,7 +24,7 @@ I am especially interested in leveraging technology to support environmental and
 ### Highlighted Projects:
 
 ### Personal Trivia:
-- Currently preparing for a 6 month trip to Taiwan to learn Mandarin.
+- Currently living in Taipei, Taiwan for six months to learn Mandarin.
 
 You can reach me at em.deguzm@gmail.com. 
 
