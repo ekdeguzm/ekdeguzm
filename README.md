@@ -5,7 +5,7 @@ I graduated from the University of California, Davis in 2018 with a degree in Wi
 I am especially interested in leveraging technology to support environmental and energy conservation, improving financial accessability, and generally making the world a better place for all.
 
 - 🌱 Currently learning: [The Odin Project](https://www.theodinproject.com/)
-- 🔨 Currently working on: 
+- 🔨 Currently working on: My [website](https://www.ekdeguzm.com/)
 - 💻 Let's talk about: 
 - 📚 I plan on learning: 
 
