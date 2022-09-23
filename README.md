@@ -24,7 +24,7 @@ I am especially interested in leveraging technology to support environmental and
 ### Highlighted Projects:
 
 ### Personal Trivia:
-- Currently living in Taipei, Taiwan for six months to learn Mandarin.
+- Currently living in Taipei, Taiwan to study Mandarin at the National Taiwan Normal University for six months.
 
 You can reach me at em.deguzm@gmail.com. 
 
