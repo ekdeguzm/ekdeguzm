@@ -16,6 +16,7 @@ I am especially interested in leveraging technology to support environmental and
  <img src="https://raw.githubusercontent.com/ekdeguzm/ekdeguzm/main/icons/html5-original.svg" alt="html5" width=50 height=50>
  <img src="https://raw.githubusercontent.com/ekdeguzm/ekdeguzm/main/icons/css3-original.svg" alt="css3" width=50 height=50>
  <img src="https://raw.githubusercontent.com/ekdeguzm/ekdeguzm/main/icons/javascript-original.svg" alt="javascript" width=50 height=50>
+ <img src="https://raw.githubusercontent.com/ekdeguzm/ekdeguzm/main/icons/react-original.svg" alt="react" width=50 height=50>
  <img src="https://raw.githubusercontent.com/ekdeguzm/ekdeguzm/main/icons/python-original.svg" alt="python" width=50 height=50>
  <img src="https://raw.githubusercontent.com/ekdeguzm/ekdeguzm/main/icons/git-original.svg" alt="git" width=50 height=50>
  <img src="https://raw.githubusercontent.com/ekdeguzm/ekdeguzm/main/icons/github-original.svg" alt="github" width=50 height=50>
