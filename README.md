@@ -24,9 +24,9 @@ Hi! My name is Kawayan De Guzman (kah-WHY-in), a Wildlife Conservation Biology m
 ### Highlighted Projects:
 
 ### Personal Trivia:
-- Currently living in Taipei, Taiwan to study Mandarin at the National Taiwan Normal University for six months.
+- Currently living in Taipei, Taiwan studying Chinese
 
-You can reach me at em.deguzm@gmail.com. 
+You can reach me at em.deguzm@gmail.com
 
 
 <!-- 🌱 I’m currently learning: 
