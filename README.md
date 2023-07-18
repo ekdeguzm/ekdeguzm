@@ -1,7 +1,10 @@
-## Hi there  👋
+## Hi there!  👋
 
-Hi! My name is Kawayan De Guzman (kah-WHY-in), a Wildlife Conservation Biology major from the University of California, Davis. I spent the past four years working, volunteering, and studying in four countries as a forester, restoration biological scientist, science educator, and fisheries researcher. Through learning Python and R to automate processes and improve data analysis during my time in Davis, I discovered my passion for programming. I think the most attractive aspect of programming is the ability to use your creativity craft mere ideas into real products on the internet. I decided to pivot my journey towards software development! I wrapped up a batch at the [Recurse Center](https://www.recurse.com/) in 2022. 
+My name is Kawayan De Guzman (kah-WHY-in), a Wildlife Conservation Biology major from the University of California, Davis. While in undergrad, I learned Python and R to automate processes and improve data analysis for an estuarine ecology research project; what started as a curiosity turned into a deep passion for programming.
 
+In 2022, I received a grant to participate in a programming retreat at the [Recurse Center](https://www.recurse.com/) where I took collaborated with others to craft mere ideas into realities on the internet. In the past four years since graduating, I also worked, volunteered, and studied in four different countries as a forester, restoration biological scientist, science educator, and fisheries researcher. 
+
+Whether you want to talk software development, traveling, or career pivoting — I’m always open to new opportunities and connections. Let’s chat!
 
 - 🌱 Currently learning: [The Odin Project](https://www.theodinproject.com/)
 - 🔨 Currently working on: My [website](https://www.ekdeguzm.com/)
