@@ -2,7 +2,7 @@
 
 My name is Emil De Guzman, a Wildlife Conservation Biology major from the University of California, Davis. While in undergrad, I learned Python and R to automate processes and improve data analysis for an estuarine ecology research project; what started as a curiosity turned into a deep passion for programming.
 
-In 2022, I received a grant to participate in a programming retreat at the [Recurse Center](https://www.recurse.com/) where I took collaborated with others to craft mere ideas into realities on the internet. In the past four years since graduating, I also worked, volunteered, and studied in four different countries as a forester, restoration biological scientist, science educator, and fisheries researcher. 
+In 2022, I received a grant to participate in a programming retreat at the [Recurse Center](https://www.recurse.com/) where I had the opportuity to collaborate with other developers to craft mere ideas into realities on the internet. In the past four years since graduating, I also worked, volunteered, and studied in four different countries as a forester, restoration biological scientist, science educator, and fisheries researcher. 
 
 Whether you want to talk software development, traveling, or career pivoting — I’m always open to new opportunities and connections. Let’s chat!
 
