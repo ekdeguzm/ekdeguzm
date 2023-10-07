@@ -27,7 +27,7 @@ Whether you want to talk software development, traveling, or career pivoting —
 ### Highlighted Projects:
 
 ### Personal Trivia:
-- Currently living in Taipei, Taiwan studying Chinese
+- I spent the last year living in Taipei, Taiwan studying Chinese
 
 You can reach me at em.deguzm@gmail.com
 
