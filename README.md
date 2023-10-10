@@ -29,7 +29,9 @@ Whether you want to talk software development, traveling, or career pivoting —
 ### Personal Trivia:
 - I spent the last year living in Taipei, Taiwan studying Chinese
 
-You can reach me at em.deguzm@gmail.com
+You can reach me at em.deguzm [at] gmail dotcom
+
+To protect against web scrapers and malignant use of my email, I've substituted the '@' symbol of my email with [at]. 
 
 
 <!-- 🌱 I’m currently learning: 
