@@ -7,7 +7,7 @@ In 2022, I received a grant to participate in a programming retreat at the [Recu
 Whether you want to talk software development, traveling, or career pivoting — I’m always open to new opportunities and connections. Let’s chat!
 
 - 🌱 Currently learning: [The Odin Project](https://www.theodinproject.com/)
-- 🔨 Currently working on: My [website](https://www.ekdeguzm.com/)
+- 🔨 Currently working on: My [website](https://ekdeguzm.github.io/)
 - 💻 Let's talk about: 
 - 📚 I plan on learning: 
 
