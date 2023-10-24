@@ -6,11 +6,13 @@ In 2022, I received a grant to join the <a href="https://www.recurse.com/">Recur
 
 <!-- where I took collaborated with others to craft mere ideas into realities on the internet. In the past four years since graduating, I also worked, volunteered, and studied in four different countries as a forester, restoration biological scientist, science educator, and fisheries researcher.  -->
 
-Outside of progrmaming, I love to go on adventures outside, run, ride my bike, and create <a href="https://open.spotify.com/intl-es/artist/4d1LMfa1HX0vBHO0o1B6jE?si=22qea_8PSJuy-YJ1_ZPpdg">music</a>. In 2023, I spent 10 months in Taiwan gaining fluency in Mandarin. 
+Outside of programming, I love to go on adventures outside, run, create <a href="https://open.spotify.com/intl-es/artist/4d1LMfa1HX0vBHO0o1B6jE?si=22qea_8PSJuy-YJ1_ZPpdg">music</a>, and learn languages. In 2023, I spent 10 months in Taiwan gaining fluency in Mandarin.
 
 Whether you want to talk software development, traveling, or just want to say hi — I’m always open to new opportunities and connections. Let's chat!
 
-- 🌱 Currently learning: [The Odin Project](https://www.theodinproject.com/)
+You can reach me at em.deguzm [at] gmail dotcom
+
+To protect against web scrapers and malignant use of my email, I've substituted the '@' symbol of my email with [at].
 
 
 <!-- 
@@ -29,9 +31,6 @@ A Wildlife Conservation Biology major from the University of California, Davis. 
 
 <!-- ### Personal Trivia:
 - Currently living in Taipei, Taiwan studying Chinese -->
-
-You can reach me at em.deguzm@gmail.com
-
 
 <!-- 🌱 I’m currently learning: 
 - Flask ([Flask Web Development](https://www.oreilly.com/library/view/flask-web-development/9781491991725/))
