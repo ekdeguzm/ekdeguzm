@@ -1,15 +1,13 @@
-## Hi there!  👋
+## Hi, I'm Emil!  👋
 
-My name is Kawayan De Guzman (kah-WHY-in), a Wildlife Conservation Biology major from the University of California, Davis. While in undergrad, I learned Python and R to automate processes and improve data analysis for an estuarine ecology research project; what started as a curiosity turned into a deep passion for programming.
+A Wildlife Conservation Biology major from the University of California, Davis. My journey began when I learned a bit of programming to automate processes and improve data analysis for an estuarine ecology research project. What started as a curiosity turned into a fascination for creation.
 
 In 2022, I received a grant to participate in a programming retreat at the [Recurse Center](https://www.recurse.com/) where I took collaborated with others to craft mere ideas into realities on the internet. In the past four years since graduating, I also worked, volunteered, and studied in four different countries as a forester, restoration biological scientist, science educator, and fisheries researcher. 
 
 Whether you want to talk software development, traveling, or career pivoting — I’m always open to new opportunities and connections. Let’s chat!
 
 - 🌱 Currently learning: [The Odin Project](https://www.theodinproject.com/)
-- 🔨 Currently working on: My [website](https://www.ekdeguzm.com/)
-- 💻 Let's talk about: 
-- 📚 I plan on learning: 
+
 
 
 
@@ -23,8 +21,6 @@ Whether you want to talk software development, traveling, or career pivoting —
  <img src="https://raw.githubusercontent.com/ekdeguzm/ekdeguzm/main/icons/git-original.svg" alt="git" width=50 height=50>
  <img src="https://raw.githubusercontent.com/ekdeguzm/ekdeguzm/main/icons/github-original.svg" alt="github" width=50 height=50>
  </div>
-
-### Highlighted Projects:
 
 ### Personal Trivia:
 - Currently living in Taipei, Taiwan studying Chinese
