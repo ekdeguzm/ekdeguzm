@@ -2,7 +2,7 @@
 
 My journey began when I learned a bit of code to automate processes and improve data analysis for an estuarine ecology research project. What started as a curiosity turned into a fascination for programming.
 
-In 2022, I received a grant to join the <a href="https://www.recurse.com/">Recurse Center</a>, a selective, self-directed, community-driven educational retreat for programmers. There, I had the opportunity to dive into my passions for creating web apps, collaborating with other engineers, and learning <a href="https://teachyourselfcs.com/">general computer science</a>. 
+In 2022, I received a grant to join the <a href="https://www.recurse.com/">Recurse Center</a>, a selective, self-directed, community-driven educational retreat for programmers. There, I created web apps, collaborated with other engineers, and studied <a href="https://teachyourselfcs.com/">foundational computer science</a>. 
 
 <!-- where I took collaborated with others to craft mere ideas into realities on the internet. In the past four years since graduating, I also worked, volunteered, and studied in four different countries as a forester, restoration biological scientist, science educator, and fisheries researcher.  -->
 
