@@ -1,6 +1,6 @@
 ## Hi, I'm Emil!  👋
 
-My journey began when I learned a bit of code to automate processes and improve data analysis for an estuarine ecology research project. What started as a curiosity turned into a fascination for programming.
+My journey began when I learned a bit of code to improve data analysis for an estuarine ecology research project. What started as a curiosity turned into a fascination for programming.
 
 In 2022, I received a grant to join the <a href="https://www.recurse.com/">Recurse Center</a>, a selective, self-directed, community-driven educational retreat for programmers. There, I created web apps, collaborated with other engineers, and studied <a href="https://teachyourselfcs.com/">foundational computer science</a>. 
 
