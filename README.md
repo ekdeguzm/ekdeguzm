@@ -10,7 +10,7 @@ Outside of programming, I love to go on adventures outside, run, create <a href=
 
 Whether you want to talk software development, traveling, or just want to say hi — I’m always open to new opportunities and connections. Let's chat!
 
-You can reach me at em.deguzm [at] gmail dotcom
+You can reach me at em.deguzm [at] gmail dot com
 
 To protect against web scrapers and malignant use of my email, I've substituted the '@' symbol of my email with [at].
 
