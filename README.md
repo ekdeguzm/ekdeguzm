@@ -18,7 +18,7 @@ systems that turn messy real-world processes into reliable, automated pipelines.
   automated GitHub access-governance tooling (HR-managed team membership → GitHub org permissions,
   phased rollout, ephemeral Vault-issued credentials) and a security observability stack
   (Terraform + Datadog + PagerDuty) for a demand-response energy platform.
-- **LIMS Associate @ BillionToOne** — led a cross-functional Python automation project
+- **LIMS Associate @ [BillionToOne](https://www.billiontoone.com/)** — led a cross-functional Python automation project
   (IT, engineering, lab) integrating LIMS/NAS/label-printing systems, cutting label generation
   time 8x.
 - Reach me by email: em.deguzm [at] gmail dot com
