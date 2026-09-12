@@ -11,7 +11,7 @@
 
 ## About Me
 
-Engineer combining a science background (ecological research) with software — I like building
+Engineer combining a science background with software. I like building
 systems that turn messy real-world processes into reliable, automated pipelines.
 
 - **Security Engineering Intern @ [Voltus](https://www.voltus.co)** – built
